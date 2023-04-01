@@ -1,3 +1,3 @@
 # Live demo
 
-:link: ![Live demo](https://nekokot.github.io/Play-Guess-the-number/)
+:link: [Live demo](https://nekokot.github.io/Play-Guess-the-number/)
